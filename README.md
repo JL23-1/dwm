@@ -3,7 +3,7 @@ My fork of DWM
 
     mkdir temp-build
     cd temp-build
-    git clone github.com/JL23-1/dwm-JL23.git
+    git clone github.com/JL23-1/dwm.git
     cd dwm
     sudo make clean install
     cd ..
