@@ -1,9 +1,8 @@
 My fork of DWM
+##           INSTALL                                   
 
-
- ---------------------------
-           INSTALL                                   
- ---------------------------
- clone this repo. Then cd in and type
-  sudo make clean install
+      git clone github.com/JL23-1/dwm-JL23.git
+      cd dwm-JL23 
+      sudo make clean install
+ 
  DONE EASY LMAO GOTTEM
