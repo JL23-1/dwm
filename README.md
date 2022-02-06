@@ -2,8 +2,8 @@ My fork of DWM
 
 
  ---------------------------
-           INSTALL         
-|                           
+           INSTALL                                   
  ---------------------------
- clone this repo. Then cd in and type "sudo make clean install"
+ clone this repo. Then cd in and type
+  sudo make clean install
  DONE EASY LMAO GOTTEM
