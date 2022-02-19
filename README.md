@@ -1,3 +1,7 @@
+
+![](https://img.shields.io/badge/It%20works-Kinda-ff69b4)
+
+
 My fork of DWM
 ##           INSTALL                                   
     
